@@ -10,3 +10,12 @@ The goal of this project was to refactor existing code so that it meets accessib
 4. Next I went through both the HTML, and CSS, finding what classes were redundant and/or repeated, and managed to consolidate them into one single class making the CSS page less crowded and better looking, along with the HTML.
 5. I also decided to add an additional (a href) to the header so that if additional pages were ever created the (h1) of the header could be used to return to the original page
 6. Lastly, and finally, I looked over all of the HTML Code, as well as CSS code, and deployed the webpage in the browser to ensure that everything was in working order, and that nothing had been missed.
+
+
+![alt text](assets/images/Week%201%20Project.jpg)
+
+
+## Link to deployed page and repository
+Page: (https://dulrath12.github.io/horiseon-BC1-project/)
+
+Repo: (https://github.com/dulrath12/horiseon-BC1-project)
